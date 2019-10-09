@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* 解决高度塌陷 */
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+.ad {
+    height: 80px;
+    background: url(../img/topadnew.jpg) no-repeat center center;
+    display: block;
+}

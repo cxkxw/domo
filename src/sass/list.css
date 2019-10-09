@@ -1,0 +1,967 @@
+@charset "UTF-8";
+#list {
+  /*------底部--------*/
+}
+
+#list .topnav .topnav_left a:hover {
+  color: #bc338b;
+}
+
+#list .logo {
+  height: 150px;
+}
+
+#list .logo .lkn-logo {
+  height: 150px;
+  float: left;
+}
+
+#list .logo .lkn-search {
+  width: 500px;
+  padding-top: 40px;
+  float: left;
+}
+
+#list .logo .lkn-search .hot-recommended {
+  line-height: 1;
+  margin-bottom: 5px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+}
+
+#list .logo .lkn-search .hot-recommended li:first-child {
+  color: #555;
+  border-right: 0;
+  font-size: 13px;
+  padding-left: 0;
+}
+
+#list .logo .lkn-search .hot-recommended li:last-child {
+  border-right: none;
+}
+
+#list .logo .lkn-search .hot-recommended li {
+  border-right: 1px solid #999;
+  float: left;
+  padding: 0 5px;
+}
+
+#list .logo .lkn-search .hot-recommended li a {
+  color: #555;
+  font-size: 13px;
+  text-decoration: none;
+  display: block;
+}
+
+#list .logo .lkn-search .lkn-search-form {
+  border: 2px solid #bc338b;
+  margin-top: 5px;
+}
+
+#list .logo .lkn-search .lkn-search-form .lkn-search-box {
+  position: relative;
+  z-index: 6;
+}
+
+#list .logo .lkn-search .lkn-search-form .lkn-search-box .lkn-search-input {
+  box-sizing: border-box;
+  outline: none;
+  width: 396px;
+  height: 36px;
+  line-height: 36px;
+  font-size: 12px;
+  color: #999;
+  padding: 0 5px;
+  display: block;
+  float: left;
+  border: none;
+}
+
+#list .logo .lkn-search .lkn-search-form .lkn-search-box .lkn-search-button {
+  box-sizing: border-box;
+  outline: none;
+  width: 100px;
+  height: 36px;
+  background: #bc338b;
+  color: #fff;
+  font-size: 18px;
+  letter-spacing: 5px;
+  border: none;
+  display: block;
+  float: left;
+}
+
+#list .logo .lkn-receipt-item {
+  height: 40px;
+  float: left;
+  margin-left: 10px;
+  width: 150px;
+  border: none;
+  color: #fff;
+  background-color: #bc338b;
+  font-size: 15px;
+  margin-top: 58px;
+  line-height: 40px;
+}
+
+#list .logo .lkn-receipt-item i {
+  font-size: 25px;
+  margin-left: 20px;
+}
+
+#list .logo .lkn-receipt-item a {
+  text-decoration: none;
+  color: #fff;
+  vertical-align: top;
+  font-weight: normal;
+}
+
+#list .logo .lkn-receipt-item1 {
+  background: #1c3a8b;
+}
+
+#list .nav .nav-top {
+  width: 100%;
+  height: 36px;
+  clear: both;
+  line-height: 36px;
+  border-bottom: 2px solid #bc338b;
+  background: #fff;
+}
+
+#list .nav .nav-top .mainnav_dl {
+  width: 240px;
+  float: left;
+  position: relative;
+}
+
+#list .nav .nav-top .mainnav_dl dt {
+  height: 36px;
+  color: #fff;
+  font-size: 16px;
+}
+
+#list .nav .nav-top .mainnav_dl dt a {
+  padding-left: 80px;
+  font-size: 14px;
+  color: #bc338b;
+  background: #FFF;
+  position: relative;
+  display: block;
+}
+
+#list .nav .nav-top .mainnav_dl dt i {
+  font-size: 22px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 30px;
+  color: #bc338b;
+}
+
+#list .nav .nav-top .mainnav_dl dt .hover {
+  color: #FFF;
+  background: #bc338b;
+  text-decoration: none;
+}
+
+#list .nav .nav-top .mainnav_dl dd {
+  display: none;
+  top: 36px;
+  width: 240px;
+  height: 400px;
+  border-top: 2px solid #bc338b;
+  background: #183b8c;
+  position: absolute;
+  z-index: 15;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-con {
+  position: relative;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-con .on {
+  color: #183b8c;
+  background: #fff;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-con .mainnav_dl-li-mover {
+  color: #183b8c;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-con .mainnav_dl-li {
+  float: left;
+  width: 240px;
+  position: relative;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-con .mainnav_dl-li .mainnav_dl-li-div {
+  font-size: 14px;
+  padding: 15px 12px;
+  width: 150px;
+  margin: 0 auto;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-con .mainnav_dl-li .mainnav_dl-li-div .mainnav_dl-li-div-a {
+  width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-weight: bold;
+  line-height: normal;
+  display: block;
+  position: relative;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-con .mainnav_dl-li .mainnav_dl-li-div .mainnav_dl-li-div-a img {
+  display: inline !important;
+  position: absolute;
+  top: 0;
+  left: -30px;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-con .mainnav_dl-li .mainnav_dl-li-div .mainnav_dl-li-div-span {
+  margin-top: 12px;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-con .mainnav_dl-li .mainnav_dl-li-div .mainnav_dl-li-div-span a {
+  font-size: 14px;
+  color: #fff;
+  padding-right: 20px;
+  float: left;
+  line-height: normal;
+  margin-bottom: 4px;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-con .mainnav_dl-li .mainnav_dl-li-div .mainnav_dl-li-div-span a:nth-child(3n) {
+  padding-right: 12px;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-sub {
+  font-size: 14px;
+  position: absolute;
+  top: 0;
+  left: 240px;
+  width: 779px;
+  height: 400px;
+  background: #FFF;
+  display: none;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-sub .mainnav_dl-sub-word {
+  float: left;
+  height: 400px;
+  box-sizing: border-box;
+  padding: 10px 0 0;
+  z-index: 15;
+  display: none;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-sub .mainnav_dl-sub-word .nav_box {
+  width: 47%;
+  float: left;
+  min-height: 192px;
+  margin: 2px 0 10px 14px;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-sub .mainnav_dl-sub-word .nav_box h4 {
+  font-weight: normal;
+  margin-left: 6px;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-sub .mainnav_dl-sub-word .nav_box .box ul {
+  font-style: normal;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-sub .mainnav_dl-sub-word .nav_box .box ul li {
+  width: 60px;
+  height: 20px;
+  float: left;
+  font-size: 12px;
+  color: gray;
+  line-height: 20px;
+  margin: 4px;
+  text-align: center;
+  border: 1px dashed gainsboro;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-sub .mainnav_dl-sub-word .nav_box .box ul li a {
+  color: inherit;
+  display: block;
+}
+
+#list .nav .nav-top .mainnav_dl dd .mainnav_dl-sub .mainnav_dl-sub-word .mainnav-sub-ad h4 {
+  font-weight: normal;
+}
+
+#list .nav .nav-top .sidenav {
+  font-size: 16px;
+  float: left;
+}
+
+#list .nav .nav-top .sidenav .on a {
+  color: #bc338b;
+  display: block;
+  text-align: center;
+}
+
+#list .nav .nav-top .sidenav li:first-child {
+  width: 112px;
+}
+
+#list .nav .nav-top .sidenav li {
+  float: left;
+  width: 111px;
+  text-align: center;
+}
+
+#list .nav .nav-top .sidenav li a {
+  color: inherit;
+}
+
+#list .nav .nav-top .sidenav li:hover a {
+  color: #bc338b;
+}
+
+#list .nav .nav-top .floatNav {
+  float: right;
+  font-size: 14px;
+  width: 210px;
+}
+
+#list .nav .nav-top .floatNav li:first-child {
+  margin-left: 0;
+}
+
+#list .nav .nav-top .floatNav li {
+  float: left;
+  margin-left: 15px;
+  text-align: center;
+}
+
+#list .nav .nav-top .floatNav li a {
+  color: inherit;
+}
+
+#list .xq-sx {
+  background: #f5f5f5;
+}
+
+#list .xq-sx .sx-box {
+  background: #FFF;
+  margin-top: 10px;
+  border: 1px solid #dcdcdc;
+}
+
+#list .xq-sx .sx-box dl dt {
+  height: 36px;
+  line-height: 36px;
+  font-size: 15px;
+  text-align: center;
+  border-bottom: 15px solid #fff;
+  background: #eee;
+}
+
+#list .xq-sx .sx-box dl dd {
+  margin-top: 15px;
+  padding: 0 0 10px 30px;
+  float: left;
+  width: 100%;
+  border-bottom: 1px solid #dcdcdc;
+  box-sizing: border-box;
+}
+
+#list .xq-sx .sx-box dl dd strong {
+  width: 120px;
+  margin-top: 10px;
+  font-weight: 600;
+  margin-right: 10px;
+  float: left;
+  font-size: 14px;
+}
+
+#list .xq-sx .sx-box dl dd ul {
+  width: 80%;
+  height: 30px;
+  float: left;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+#list .xq-sx .sx-box dl dd ul li {
+  width: 150px;
+  display: block;
+  line-height: 30px;
+  float: left;
+}
+
+#list .xq-sx .sx-box dl dd ul li a {
+  display: inline-block;
+  height: 14px;
+  line-height: 14px;
+  color: inherit;
+}
+
+#list .xq-sx .sx-box dl dd ul li input {
+  margin-right: 5px;
+}
+
+#list .xq-sx .sx-box dl dd ul li a:hover {
+  color: #bc338b;
+}
+
+#list .xq-sx .sx-box dl dd .filte {
+  font-size: 12px;
+  padding: 6px 5px;
+  display: block;
+  cursor: pointer;
+  float: right;
+  margin-right: 10px;
+  border: 1px solid #f2f2f2;
+}
+
+#list .xq-sx .sx-box dl .more {
+  height: 45px;
+  line-height: 45px;
+  margin-top: 0;
+  border-bottom: none;
+  text-align: center;
+}
+
+#list .xq-sx .sx-box dl .more a {
+  font-size: 14px;
+  color: inherit;
+  display: block;
+  width: 1200px;
+}
+
+#list .xq-sx .lnkboxs {
+  background: #FFF;
+  margin-top: 40px;
+}
+
+#list .xq-sx .lnkboxs .classfied {
+  min-height: 48px;
+  padding: 0 15px;
+  border-bottom: 1px solid #dcdcdc;
+  position: relative;
+}
+
+#list .xq-sx .lnkboxs .classfied h4 {
+  margin-top: 15px;
+  float: left;
+  font-weight: normal;
+  padding-right: 10px;
+}
+
+#list .xq-sx .lnkboxs .classfied h4 .fl {
+  margin-left: 10px;
+}
+
+#list .xq-sx .lnkboxs .classfied .lb-fiter {
+  font-size: 14px;
+  position: absolute;
+  top: 17px;
+  right: 15px;
+  display: inline-block;
+  height: 14px;
+  line-height: 14px;
+  padding-left: 20px;
+  color: inherit;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs {
+  padding: 0 8px 40px 8px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lb-result {
+  margin-top: 20px;
+  height: 18px;
+  line-height: 18px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lb-result .add-result {
+  color: #e52d88;
+  float: left;
+  font-size: 14px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lb-result .add-result i {
+  font-size: 18px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lb-result .num-result {
+  float: right;
+  font-size: 14px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lb-result .num-result b {
+  font-size: 16px;
+  font-weight: normal;
+  color: #e52d88;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lb-result .num-result span {
+  color: #e52d88;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu {
+  margin-top: 10px;
+  height: 34px;
+  line-height: 34px;
+  border: 1px solid #dcdcdc;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu ul {
+  margin: -1px 0 -1px -1px;
+  float: left;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu ul li {
+  float: left;
+  height: 36px;
+  font-size: 14px;
+  padding: 0 14px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu ul li a {
+  color: inherit;
+  float: left;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu ul li img {
+  display: block;
+  border: none;
+  margin-top: 8px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu ul .on {
+  background: #bc338b;
+  color: #FFF;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .priceab {
+  margin-left: 20px;
+  float: left;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .priceab input {
+  width: 56px;
+  height: 22px;
+  line-height: 22px;
+  border: 1px solid #dcdcdc;
+  padding: 0;
+  color: #999;
+  font-size: 12px;
+  text-align: center;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .priceab .btn-price {
+  height: 24px;
+  color: #000;
+  width: 46px;
+  background: #FFF;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .priceab .btn-price:hover {
+  background: #e5e5e5;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum {
+  float: right;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-left {
+  float: left;
+  height: 35px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-left label {
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-left .all {
+  width: 183px;
+  height: 32px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  background: #FFF;
+  border: 1px solid #e3e3e3;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-left .all .select-btn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: none;
+  width: 183px;
+  height: 32px;
+  padding: 0 26px 0 10px;
+  overflow: hidden;
+  outline: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  word-break: break-all;
+  box-sizing: border-box;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-left .all i {
+  position: absolute;
+  display: block;
+  top: 0;
+  right: 14px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-left .all .select {
+  width: 183px;
+  position: absolute;
+  top: 33px;
+  display: none;
+  background: #FFF;
+  border: 1px solid #8e8e8e;
+  box-shadow: 0 0 3px #ddd;
+  border-radius: 3px;
+  left: -1px;
+  overflow: hidden;
+  z-index: 999;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-left .all .select ul {
+  max-height: 240px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0;
+  line-height: 34px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-left .all .select ul li {
+  width: 100%;
+  height: 34px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-left .all .select ul .seletd {
+  background: #FFF;
+  color: #bc338b;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-right {
+  float: left;
+  padding: 0 15px;
+  font-size: 14px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-right i {
+  display: inline-block;
+  font-weight: normal;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-menu .pagenum .page-right b {
+  font-weight: normal;
+  margin-left: 5px;
+  color: #e52d88;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist {
+  width: 217px;
+  height: 404px;
+  border: 1px solid #dcdcdc;
+  margin: 12px 11px 0 0;
+  float: left;
+  position: relative;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .bigimg {
+  width: 217px;
+  height: 217px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .smallimg {
+  padding: 10px 0;
+  border-bottom: 1px solid #dcdcdc;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .smallimg li {
+  width: 33px;
+  height: 33px;
+  border: 1px solid #FFF;
+  margin-left: 7px;
+  float: left;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .smallimg li img {
+  width: 100%;
+  height: 100%;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .smallimg .active {
+  border: 1px solid #bc338b;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont {
+  padding: 8px 8px 0;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .list-price {
+  font-size: 14px;
+  line-height: 14px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .list-price a {
+  color: #e52d88;
+  display: block;
+  width: 100px;
+  float: left;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .list-price .cj {
+  font-size: 12px;
+  color: #999;
+  max-width: 100px;
+  float: right;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .title {
+  height: 36px;
+  font-size: 13px;
+  margin-top: 8px;
+  line-height: 18px;
+  color: inherit;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .title:hover {
+  text-decoration: underline;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .list-add {
+  margin-top: 8px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .list-add a {
+  display: block;
+  font-size: 14px;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+  border-radius: 2px;
+  color: #FFF;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .list-add .add-data {
+  width: 90px;
+  background: #1c3a8b;
+  float: left;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .list-add .add-data i {
+  font-size: 18px;
+  margin-right: 5px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .list-add .add-receipt {
+  background: #bc338b;
+  float: right;
+  width: 105px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .list-state {
+  font-size: 12px;
+  color: #555;
+  margin-top: 8px;
+  height: 12px;
+  line-height: 12px;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .list-state .market {
+  float: left;
+}
+
+#list .xq-sx .lnkboxs .lknbox-boxs .lknbox-list .boxlist .cont .list-state .time {
+  float: right;
+}
+
+#list .xq-sx .lnkboxs .pageing {
+  width: 100%;
+  display: table;
+  font-size: 14px;
+}
+
+#list .xq-sx .lnkboxs .pageing ul {
+  margin-top: 20px;
+  float: right;
+}
+
+#list .xq-sx .lnkboxs .pageing ul .ipage a {
+  display: block;
+  float: left;
+  height: 28px;
+  line-height: 28px;
+  margin-left: 5px;
+  padding: 0 12px;
+  color: #555;
+  background: #f1eff0;
+  border-radius: 2px;
+}
+
+#list .xq-sx .lnkboxs .pageing ul li {
+  height: 28px;
+  line-height: 28px;
+  margin: 0;
+  float: left;
+}
+
+#list .xq-sx .lnkboxs .pageing ul li a {
+  display: block;
+  height: 28px;
+  line-height: 28px;
+  margin-left: 5px;
+  padding: 0 12px;
+  color: #555;
+  background: #f1eff0;
+  border-radius: 2px;
+}
+
+#list .xq-sx .lnkboxs .pageing ul li .curr {
+  background: #bc338b;
+  color: #FFF;
+}
+
+#list .xq-sx .lnkboxs .pageing ul li .page-total {
+  margin-left: 5px;
+}
+
+#list .xq-sx .lnkboxs .pageing ul li .page-total .skip {
+  height: 24px;
+  line-height: 24px;
+  width: 50px;
+  margin: 0 5px;
+}
+
+#list .xq-sx .lnkboxs .pageing ul li .page-total .pages-btn {
+  height: 28px;
+  margin-left: 5px;
+  padding: 0 10px;
+  border: 1px solid #ccc;
+  background: #FFF;
+  cursor: pointer;
+}
+
+#list .footer {
+  background: #0c1839;
+  padding-bottom: 30px;
+}
+
+#list .footer .footer-main {
+  padding: 25px 0 50px;
+  border-bottom: 1px solid #333a4e;
+}
+
+#list .footer .footer-main li {
+  float: left;
+  width: 170px;
+}
+
+#list .footer .footer-main li dl {
+  color: #e5e5e5;
+}
+
+#list .footer .footer-main li dl dt {
+  margin-bottom: 15px;
+  font-size: 15px;
+  line-height: 15px;
+  color: #e5e5e5;
+}
+
+#list .footer .footer-main li dl dd {
+  height: 24px;
+  line-height: 24px;
+}
+
+#list .footer .footer-main li dl dd a {
+  display: block;
+  color: inherit;
+}
+
+#list .footer .footer-main li dl dd a:hover {
+  text-decoration: underline;
+  color: #FFF;
+}
+
+#list .footer .footer-main li dl .lkn-tel {
+  font-size: 18px;
+  color: #e2a302;
+}
+
+#list .footer .footer-main li dl .lkn-tel {
+  font-size: 18px;
+  color: #e2a302;
+}
+
+#list .footer .footer-main li dl .time {
+  font-size: 12px;
+}
+
+#list .footer .footer-main li dl .lkn-xd {
+  font-size: 12px;
+  line-height: 12px;
+  position: relative;
+  top: -5px;
+}
+
+#list .footer .copyright {
+  font-size: 14px;
+  line-height: 14px;
+  color: #999;
+  margin: 30px 0 15px;
+  text-align: center;
+}
+
+#list .footer .copyright .cop {
+  color: inherit;
+}
+
+#list .footer .friendlink {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#list .footer .friendlink a {
+  font-size: 12px;
+  list-style: 12px;
+  color: #777;
+  display: inline;
+}
+
+#list .footer .friendlink a:hover {
+  color: #FFF;
+  text-decoration: underline;
+}
+
+#list .footer .footadd {
+  width: 1000px;
+  padding-top: 30px;
+  margin: 0 auto;
+}
+
+#list .footer .footadd img:first-child {
+  margin: 0;
+}
+
+#list .footer .footadd img {
+  float: left;
+  display: block;
+  border: none;
+  width: 128px;
+  height: 52px;
+  margin-left: 40px;
+  cursor: pointer;
+}
